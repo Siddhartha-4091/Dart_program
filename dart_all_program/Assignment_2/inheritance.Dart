@@ -5,7 +5,6 @@ class Animal {
 }class Dog extends Animal {
   void bark() {
     print("Dog is barking");
-
   }
 }
 
